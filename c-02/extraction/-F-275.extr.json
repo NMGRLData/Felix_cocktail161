@@ -1,0 +1,27 @@
+{
+    "beam_diameter": "", 
+    "cleanup_duration": 0.0, 
+    "commit": "967bee5865da797e009bd496f5be2884294aef06", 
+    "extract_device": "NMGRL Furnace", 
+    "extract_duration": 0.0, 
+    "extract_units": "", 
+    "extract_value": 0.0, 
+    "pattern": "", 
+    "pid": "HO,25;XP,425;TI,100;TD,10", 
+    "positions": [
+        {
+            "is_degas": false, 
+            "position": "", 
+            "x": null, 
+            "y": null, 
+            "z": null
+        }
+    ], 
+    "ramp_duration": 0.0, 
+    "ramp_rate": 0.0, 
+    "request": "g4avTgAAAAAAGIQ6AACWQw0VH0AAAJZDyoSPQAAAlkOUoc9AAACWQ0rTB0EAAJZDfNAnQQAAlkN4zkdBAACWQ0DSZ0EAAJZDDO+DQQAAlkN48pNBAACWQwr0o0EAAJZDOPezQQAAlkOs/sNBAACWQ8T900EAgJVDhf7jQQCAlUPX/fNBAICVQ34AAkIAgJVD5gAKQgCAlUP/AxJCAICVQ4MGGkIAAJVD9wYiQgAAlUOfCCpCAACVQ8IHMkIAAJVDJAc6QgCAlEMVB0JCAICUQ3oHSkIAgJRDIwdSQgAAlEPGBlpCAACUQ1UGYkIAAJRDMAlqQgCAk0P0CHJCAICTQ/ALekIAgJND0gWBQgAAk0OTBYVCAACTQ1UFiUIAAJND3gaNQgCAkkMnB5FCAICSQ8wHlUIAAJJDxgeZQgAAkkO1CZ1CAACSQ8IKoUIAgJFDfgylQgCAkUPjDKlCAACRQ+EOrUIAAJFDShCxQgCAkENbmLZCAICQQySaukIAAJBDF5y+QgAAkEO6ncJCAACQQ0GfxkIAgI9D/KDKQgCAj0OboM5CAICPQxGh0kIAAI9DzqHWQgAAj0M=", 
+    "response": "g4avTgAAAAAAGIQ6zcysQA0VH0DNzKxAyoSPQM3MrECUoc9AzcysQErTB0HNzJxAfNAnQQAAAAB4zkdBmpmZPkDSZ0EAAAA/DO+DQZqZGT948pNBMzMzPwr0o0EzMzM/OPezQTMzMz+s/sNBzcxMP8T900FmZmY/hf7jQWZmZj/X/fNBAACAP34AAkLNzIw/5gAKQs3MjD//AxJCmpmZP4MGGkKamZk/9wYiQmZmpj+fCCpCMzOzP8IHMkLNzMw/JAc6Qs3MzD8VB0JCmpnZP3oHSkJmZuY/IwdSQjMz8z/GBlpCAAAAQFUGYkJmZgZAMAlqQjMzE0D0CHJCmpkZQPALekIAACBA0gWBQmZmJkCTBYVCzcwsQFUFiUIzMzNA3gaNQpqZOUAnB5FCZmZGQMwHlULNzExAxgeZQjMzU0C1CZ1CmplZQMIKoUJmZmZAfgylQjMzc0DjDKlCmpl5QOEOrUIAAIBAShCxQpqZiUBbmLZCzcyMQCSaukIzM5NAF5y+QjMzk0C6ncJCzcycQEGfxkIAAKBA/KDKQmZmpkCboM5CmpmpQBGh0kLNzKxAzqHWQmZmtkA=", 
+    "sblob": "", 
+    "tray": "", 
+    "weight": 17.24
+}
