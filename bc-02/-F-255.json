@@ -1,0 +1,83 @@
+{
+    "acquisition_software": "Pychron16.7(Exp0.1,DVC0.1)", 
+    "aliquot": 255, 
+    "analysis_type": "blank_cocktail", 
+    "analyst_name": "MHeizler", 
+    "comment": "continue running standards to monitor drift", 
+    "commit": "44bf25ac14c1812e7381b0a528534cba55aad1c7", 
+    "conditionals": [
+        {
+            "analysis_types": null, 
+            "frequency": 10, 
+            "hash_id": -530729609918142714, 
+            "level": 10, 
+            "location": "setupfiles/spectrometer/default_conditionals.yaml", 
+            "ntrips": 1, 
+            "start_count": 5, 
+            "teststr": "L2(CDD).deflection==3250"
+        }
+    ], 
+    "data_reduction_software": "Pychron16.7(DVC0.1)", 
+    "detectors": {
+        "AX": {
+            "deflection": 0, 
+            "gain": 0
+        }, 
+        "H1": {
+            "deflection": 0, 
+            "gain": 0
+        }, 
+        "H2": {
+            "deflection": 0, 
+            "gain": 0
+        }, 
+        "L1": {
+            "deflection": 0, 
+            "gain": 0
+        }, 
+        "L2(CDD)": {
+            "deflection": 0.0, 
+            "gain": 0
+        }
+    }, 
+    "extraction": "felix_cocktail_x3.py", 
+    "identifier": "bc-02-F", 
+    "increment": null, 
+    "intensity_scalar": 0.0, 
+    "irradiation": "NoIrradiation", 
+    "irradiation_level": "A", 
+    "irradiation_position": 25, 
+    "isotopes": {
+        "Ar36": {
+            "detector": "L2(CDD)"
+        }, 
+        "Ar37": {
+            "detector": "L1"
+        }, 
+        "Ar38": {
+            "detector": "AX"
+        }, 
+        "Ar39": {
+            "detector": "H1"
+        }, 
+        "Ar40": {
+            "detector": "H2"
+        }
+    }, 
+    "laboratory": "", 
+    "mass_spectrometer": "Felix", 
+    "material": "Blank", 
+    "measurement": "felix_analysis400_120.py", 
+    "post_equilibration": "felix_pump_extraction_line.py", 
+    "post_measurement": "felix_pump_ms.py", 
+    "project": "REFERENCES", 
+    "queue_conditionals_name": "normal", 
+    "repository_identifier": "Felix_cocktail161", 
+    "sample": "blank_cocktail", 
+    "spec_sha": "4340ad694595f0ff31b7f746635fa6b79cb517c9", 
+    "timestamp": "2016-12-10T11:32:09.926830", 
+    "tripped_conditional": null, 
+    "username": "MHeizler", 
+    "uuid": "fba4959f-9fa9-49ef-a3e9-edda7c78f66d", 
+    "whiff_result": null
+}
